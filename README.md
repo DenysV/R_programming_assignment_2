@@ -1,2 +1,0 @@
-# R_programming_assignment_2
-R_programming_Programming_Assignment_2
